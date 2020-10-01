@@ -1,4 +1,4 @@
   // content.js
-  alert("Hello from your Chrome extension!")
+  alert("This is a test of my first extension!")
 
  
